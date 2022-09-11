@@ -14,6 +14,9 @@ Create a preview card, using CSS and HTML. Replicate screenshot as close as poss
 
 Here is a screenshot of the final project and how it looks via my screen.
 
+Here is what it is supposed to look like:
+![](./design/desktop-design.jpg)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
