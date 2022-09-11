@@ -12,9 +12,9 @@ Create a preview card, using CSS and HTML. Replicate screenshot as close as poss
 
 ![](./images/Screen%20Shot%202022-09-11%20at%205.17.38%20PM.png)
 
-Here is a screenshot of the final project and how it looks via my screen.
+Pictured ABOVE is a screenshot of my solution and how it looks via my screen. ^^^
 
-Here is what it is supposed to look like:
+Pictured BELOW is what the challenge is supposed to look like:
 ![](./design/desktop-design.jpg)
 
 ### Links
