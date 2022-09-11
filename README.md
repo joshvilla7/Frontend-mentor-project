@@ -19,7 +19,7 @@ Pictured BELOW is what the challenge is supposed to look like:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://joshvilla7.github.io/Frontend-mentor-project/)
 
 
 
